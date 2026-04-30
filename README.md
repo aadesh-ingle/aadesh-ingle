@@ -12,7 +12,7 @@ I work best where the problem is not just "call an LLM", but figuring out the wo
 
 ## What I Build
 
-- Voice AI systems with LiveKit and explicit STT → LLM → TTS pipelines when reliability matters more than demo latency.
+- Voice AI systems and explicit STT → LLM → TTS pipelines when reliability matters more than demo latency.
 - Agentic workflow systems for logistics, HR/workforce operations, real estate, and customer operations.
 - RAG and document intelligence pipelines for freight documents, knowledge workflows, and internal search.
 - Production data and analytics pipelines using AWS Lambda, SQS, S3, PostgreSQL, DynamoDB, GCP Vertex AI, and Langfuse.
