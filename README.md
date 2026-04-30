@@ -34,7 +34,7 @@ Most of this work is private/client-facing, so I write about architecture and pr
 Voice and email agents for freight operations, including long-running workflow orchestration, eval-driven prompt improvement, retry logic, and operational analytics.
 
 **Voice-first career platform**  
-Designed a multi-service system with Next.js, Django, and LiveKit agents. Reworked the voice architecture to improve tool-calling reliability, observability, and workflow control.
+Designed a multi-service system with Next.js, Django, and Voice agents. Reworked the voice architecture to improve tool-calling reliability, observability, and workflow control.
 
 **Logistics demand pipeline and data enrichment**  
 Worked on logistics demand ingestion from WhatsApp/Gmail, structured field extraction, vehicle/location mapping, CRM demand creation, and transporter data enrichment using fuzzy matching and ensemble ML approaches.
