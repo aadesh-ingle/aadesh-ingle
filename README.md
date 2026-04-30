@@ -48,9 +48,9 @@ Designed a serverless pipeline for transcription, summarization, sentiment analy
 # 💻 Tech Stack
 
 **AI / LLM**<br>
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=plastic&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=plastic&logo=langchain&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=plastic&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-%23191919.svg?style=plastic&logo=anthropic&logoColor=white) ![Google Vertex AI](https://img.shields.io/badge/Vertex%20AI-%234285F4.svg?style=plastic&logo=googlecloud&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=plastic&logo=langchain&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
-OpenAI APIs, RAG, embeddings, prompt engineering, evals, Langfuse, LangGraph, XGBoost, LightGBM, Random Forests, scikit-learn, PyTorch.
+OpenAI APIs, Anthropic Claude, Google Vertex AI, RAG, embeddings, prompt engineering, evals, Langfuse, LangGraph, XGBoost, LightGBM, Random Forests, scikit-learn, PyTorch.
 
 **Backend & Infrastructure**<br>
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
