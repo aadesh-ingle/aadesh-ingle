@@ -2,7 +2,7 @@
 
 Founding engineer building production AI systems for messy business workflows: voice agents, LLM workflows, RAG, document intelligence, and data pipelines.
 
-I am the first engineering hire at [Tailored AI](https://tailoredai.com/), where I own architecture and delivery for AI systems that move from ambiguous client workflows to production usage. My work sits at the intersection of applied AI, backend architecture, data pipelines, evaluation, and client delivery.
+I am the first engineering hire at [Tailored AI](https://tailoredai.co/), where I own architecture and delivery for AI systems that move from ambiguous client workflows to production usage. My work sits at the intersection of applied AI, backend architecture, data pipelines, evaluation, and client delivery.
 
 I work best where the problem is not just "call an LLM", but figuring out the workflow, data model, eval loop, reliability path, and production architecture around it.
 
